@@ -1,0 +1,6 @@
+{
+  "name": "Magic Words: Elementary English Spelling & PK Arena",
+  "description": "An interactive classroom English learning game for elementary teachers and students featuring phonics spelling puzzles, 2-player smartboard PK battles, memory games, and cute animated vocabulary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
